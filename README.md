@@ -57,14 +57,9 @@ I am a highly motivated Data Scientist and ML/AI Developer with a strong foundat
 ### 🏆 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushrajm&theme=tokyonight&margin-w=15&margin-h=15&v=1" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrajm&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Dhanushraj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushrajm&theme=tokyonight&hide_border=true" alt="Dhanushraj's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushrajm&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+  </picture>
 </p>
