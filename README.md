@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/dhanushrajm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+ML%2FAI+Developer;Big+Data+%26+FastAPI+Backend+Engineer;AUEB+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML%2FAI+Developer;Big+Data+%26+FastAPI+Backend+Engineer;AUEB+Data+Science+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,14 +57,14 @@ I am a highly motivated Data Scientist and ML/AI Developer with a strong foundat
 ### 🏆 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushrajm&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanushrajm&theme=tokyonight&margin-w=15&margin-h=15&v=1" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrajm&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhanushraj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrajm&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Dhanushraj's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushrajm&theme=tokyonight&hide_border=true" alt="Dhanushraj's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushrajm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushrajm&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
