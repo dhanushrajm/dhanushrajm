@@ -2,10 +2,6 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanushrajm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/dhanushrajm">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML%2FAI+Developer;Big+Data+%26+FastAPI+Backend+Engineer;AUEB+Data+Science+Student" alt="Typing SVG" />
   </a>
@@ -55,6 +51,10 @@ I am a highly motivated Data Scientist and ML/AI Developer with a strong foundat
 ---
 
 ### 🏆 GitHub Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhanushrajm/dhanushrajm/output/github-metrics.svg" alt="GitHub Metrics Dashboard" />
+</p>
 
 <p align="center">
   <picture>
