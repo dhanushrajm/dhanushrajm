@@ -1,0 +1,35 @@
+name: Generate GitHub Metrics
+
+on:
+  # Run automatically every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    # We already enabled write permissions in the repo settings, 
+    # but this explicitly tells the job to use them.
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # Save the image to the exact same branch as the snake
+          committer_branch: output
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Core stats to display
+          base: header, activity, community, repositories
+          config_timezone: Europe/Athens
+          
+          # Add a section for top programming languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 5
