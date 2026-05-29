@@ -1,11 +1,9 @@
 name: Generate GitHub Metrics
 
 on:
-  # Run automatically every day at midnight
   schedule:
     - cron: "0 0 * * *"
   
-  # Allow manual triggering
   workflow_dispatch:
 
 jobs:
@@ -22,22 +20,12 @@ jobs:
           committer_branch: output
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # 1. Minimal Base (Removes the clutter)
           base: header
           config_timezone: Europe/Athens
           
-          # 2. Cool 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # 3. Coding Habits & Activity
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use last 200 events to calculate habits
-          plugin_habits_days: 14        # Keep it to recent 14 days
-          plugin_habits_facts: yes      # Shows quick facts (e.g. "Most active on Weekends")
-          plugin_habits_charts: yes     # Generates a cool activity graph
-          
-          # 4. Top Languages (Cleaned up)
+
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 4
