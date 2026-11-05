@@ -25,7 +25,7 @@
 
 I am a versatile Data Scientist and AI Researcher with proven expertise in bridging AI and data engineering techniques to build scalable, production-ready applications. I specialize in designing advanced machine learning algorithms, deploying robust backend microservices, and extracting actionable insights from complex datasets. 
 
-Currently, I am pursuing an **M.Sc. in AI and Data Science at the Athens University of Economics and Business (AUEB)**, building on my B.Tech in CS (AI & ML) where I graduated from VIT Bhopal University.
+Currently, I am pursuing an **M.Sc. in AI and Data Science at the Athens University of Economics and Business (AUEB)** and doing my **Master's Thesis at NCSR (National Centre for Scientific Research) Demokritos with the FRONT Research Group**, building on my B.Tech in CS (AI & ML) where I graduated from VIT Bhopal University.
 
 ---
 
